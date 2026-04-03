@@ -1,5 +1,4 @@
 import React from "react";
-// src/Table.jsx
 function TableHeader() {
   return (
     <thead>
@@ -33,7 +32,6 @@ function TableBody(props) {
    );
 }
 
-// src/Table.jsx
 function Table(props) {
   return (
     <table>
